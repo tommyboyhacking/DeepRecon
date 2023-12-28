@@ -8,3 +8,7 @@ Once on your system run
 chmod +x deeprecon.sh
 
 to make it executable...
+
+Usage:
+
+./deeprecon.sh <domain> <path/to/wordlist>
