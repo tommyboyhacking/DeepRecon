@@ -11,4 +11,4 @@ to make it executable...
 
 Usage:
 
-./deeprecon.sh <domain> <path/to/wordlist>
+./deeprecon.sh url path/to/wordlist
