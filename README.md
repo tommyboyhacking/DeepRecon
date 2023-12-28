@@ -1,5 +1,5 @@
 # DeepRecon
-Bash script to enumerate some simple recon processes taken when first enumerating a target. 
+Bash script to automate some simple recon processes when first enumerating a target. 
 
 Copy code or download directly
 
